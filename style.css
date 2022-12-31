@@ -71,11 +71,14 @@ img {
 .text{
     color: black;
     font-size: 1.5rem;
+    font-weight: 700;
+    color: #005055;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .fa-facebook , .fa-instagram, .fa-linkedin {
     padding: 10px;
     font-size: 30px;
-    color: white;
+    color: black;
 }
 
 .fa-facebook:hover {
